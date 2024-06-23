@@ -8,9 +8,11 @@ Questa variazione del codice "10 PRINT" esplora l’idea di generare arte visiva
 >_"La Gioconda" – Leonardo Da Vinci, 1503-1506
 
 ## Risultato
-![Alt Text] <img src="https://github.com/margheritazo/archive-2024/blob/main/10_print.gif" alt="10 PRINT GIF" width="400" />
+<img src="https://github.com/margheritazo/archive-2024/blob/main/10_print.gif" alt="10 PRINT GIF" width="400" />
 
-![Alt Text] <img src="https://github.com/margheritazo/archive-2024/blob/main/10_print_finale.png" alt="La Gioconda" width="400" />
->_Sketch finito
+<img src="https://github.com/margheritazo/archive-2024/blob/main/10_print_finale.png" alt="La Gioconda" width="400" />
+>_ Sketch finito_
+
+>_ Scena 1, Bosco diurno. Musica: The Contradiction of Silence by Alexander Ekman. Utilizzo dello sketch tasto 0-C/E. Foto di ([@sprocacci](https://github.com/sprocacci/#))._  
 
 Link allo [Sketch](https://editor.p5js.org/Margherita0/sketches/aH0s68g19)
