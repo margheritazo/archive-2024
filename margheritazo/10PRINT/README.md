@@ -5,7 +5,8 @@ Questa variazione del codice "10 PRINT" esplora l’idea di generare arte visiva
 
 ## Immagine dell’esperimento
 <img src="https://github.com/margheritazo/archive-2024/blob/main/gioconda.jpg" alt="La Gioconda" width="400" />
->_"La Gioconda" – Leonardo Da Vinci, 1503-1506
+
+>_ "La Gioconda" – Leonardo Da Vinci, 1503-1506  
 
 ## Risultato
 <img src="https://github.com/margheritazo/archive-2024/blob/main/10_print.gif" alt="10 PRINT GIF" width="400" />
