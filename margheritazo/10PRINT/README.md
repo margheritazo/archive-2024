@@ -8,9 +8,9 @@ Questa variazione del codice "10 PRINT" esplora l’idea di generare arte visiva
 >_"La Gioconda" – Leonardo Da Vinci, 1503-1506
 
 ## Risultato
-<img src="https://github.com/margheritazo/archive-2024/blob/main/10_print.gif" alt="10 PRINT GIF" width="400" />
+![Alt Text] <img src="https://github.com/margheritazo/archive-2024/blob/main/10_print.gif" alt="10 PRINT GIF" width="400" />
 
-<img src="https://github.com/margheritazo/archive-2024/blob/main/10_print_finale.png" alt="La Gioconda" width="400" />
+![Alt Text] <img src="https://github.com/margheritazo/archive-2024/blob/main/10_print_finale.png" alt="La Gioconda" width="400" />
 >_Sketch finito
 
-Link allo ([Sketch](https://editor.p5js.org/Margherita0/sketches/aH0s68g19))
+Link allo [Sketch](https://editor.p5js.org/Margherita0/sketches/aH0s68g19)
